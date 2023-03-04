@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=S3-B
+Added Pin To Net: NetName=NetR4_1 Pin=S3-B'
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=S2-B'
+Added Net: Name=NetR4_2
